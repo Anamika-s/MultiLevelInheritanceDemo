@@ -1,0 +1,12 @@
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\bin\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.exe
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\bin\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.deps.json
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\bin\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\bin\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\bin\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.dll
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\bin\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\obj\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\obj\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\obj\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\obj\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.dll
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\obj\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\MultiLevelInheritanceDemo\MultiLevelInheritanceDemo\obj\Debug\netcoreapp3.1\MultiLevelInheritanceDemo.genruntimeconfig.cache
